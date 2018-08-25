@@ -1,4 +1,5 @@
 function preload() {
+    // preload code
     ping = loadSound('./sonar_ping.wav');
 }
 
