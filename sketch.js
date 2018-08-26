@@ -9,7 +9,7 @@ function setup() {
 
 function draw() {
     // put drawing code here
-    ellipse(50, 50, 80, 90);
+    ellipse(590, 50, 80, 10);
     if (! ping.isPlaying()) {
 	ping.play();
     }
